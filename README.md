@@ -1,13 +1,19 @@
 ### Hi there, I'm Itai Zeilig 👋
 
-## I'm a Software Engineer
+## I'm a Software Engineer Developer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Finish my personal Flutter project
 - ⚡ Fun fact: I love to surf 🏄 & play on drums 🥁
 
+<br/>
+
+## My Final Academic project (Afeka college of engineering): [finalProject]
+
+<br />
 ### Connect with me:
 
 [<img align="left" alt="itaizeilig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 <br />
@@ -44,5 +50,5 @@
 <img align="left" alt="ItaiZeilig's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ItaiZeilig&show_icons=true&hide_border=true" />
 
 
-
+[finalProject]: https://github.com/ItaiZeilig/Diabetes_App
 [linkedin]: https://linkedin.com/in/itaizeilig
