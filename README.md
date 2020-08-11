@@ -14,6 +14,9 @@
 #### Seminar project
  Multi threding Webcrowler based on Python and Flask [seminarProject]
 
+#### Kaggle Global Wheat Detection Research Code Competition - Computer Vision [GWD]
+
+
 
 ### Connect with me:
 
@@ -57,4 +60,5 @@
 
 [finalProject]: https://github.com/ItaiZeilig/Diabetes_App
 [seminarProject]: https://github.com/ItaiZeilig/WebCrawler
+[GWD]: https://github.com/ItaiZeilig/Introduction-to-Computer-Vision/tree/master/Introduction%20to%20Computer%20Vision/Final%20Project
 [linkedin]: https://linkedin.com/in/itaizeilig
