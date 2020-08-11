@@ -5,7 +5,7 @@
 - 🥅 2020 Goals: Finish my personal Flutter project
 - ⚡ Fun fact: I love to surf 🏄 & play on drums 🥁
 
-<br/>
+<br />
 
 ### My Academic projects (Afeka college of engineering): 
 
@@ -16,12 +16,11 @@
 
 #### Kaggle Global Wheat Detection Research Code Competition - Computer Vision [GWD]
 
-
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="itaizeilig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 
 <br />
@@ -60,5 +59,5 @@
 
 [finalProject]: https://github.com/ItaiZeilig/Diabetes_App
 [seminarProject]: https://github.com/ItaiZeilig/WebCrawler
-[GWD]: https://github.com/ItaiZeilig/Introduction-to-Computer-Vision/tree/master/Introduction%20to%20Computer%20Vision/Final%20Project
+[GWD]: https://github.com/ItaiZeilig/Introduction-to-Computer-Vision/blob/master/Introduction%20to%20Computer%20Vision/Final%20Project/FasterRCNN%20ResNet101%20.ipynb
 [linkedin]: https://linkedin.com/in/itaizeilig
