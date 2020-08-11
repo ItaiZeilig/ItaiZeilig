@@ -13,8 +13,8 @@
  Diabetes Communication app between HCP (Health Care Provider) staff and their patients developed for "Meir hospital Kfar Saba" [finalProject]
 #### Seminar project
  Multi threding Webcrowler based on Python and Flask [seminarProject]
-
-#### Kaggle Global Wheat Detection Research Code Competition - Computer Vision [GWD]
+#### Computer Vision
+ Kaggle Global Wheat Detection Research Code Competition [GWD]
 
 <br />
 
