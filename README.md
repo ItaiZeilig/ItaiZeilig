@@ -7,7 +7,7 @@
 
 <br/>
 
-## My Final Academic project (Afeka college of engineering): [finalProject]
+#### My Final Academic project (Afeka college of engineering): [finalProject]
 
 <br />
 ### Connect with me:
