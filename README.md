@@ -9,7 +9,10 @@
 
 ### My Academic projects (Afeka college of engineering): 
 
-Diabetes online chat Application for "Meir hospital Kfar Saba" [finalProject]
+#### Final Academic project
+- Diabetes Communication app between HCP (Health Care Provider) staff and their patients developed for "Meir hospital Kfar Saba" [finalProject]
+#### Seminar project
+- Multi threding Webcrowler based on python and flask
 
 
 ### Connect with me:
@@ -53,4 +56,5 @@ Diabetes online chat Application for "Meir hospital Kfar Saba" [finalProject]
 
 
 [finalProject]: https://github.com/ItaiZeilig/Diabetes_App
+[seminarProject]: https://github.com/ItaiZeilig/WebCrawler
 [linkedin]: https://linkedin.com/in/itaizeilig
