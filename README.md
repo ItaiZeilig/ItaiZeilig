@@ -1,7 +1,7 @@
 ### Hi there, I'm Itai Zeilig 👋
 
 ## I'm a Software Engineer Developer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Finish my personal Flutter project
 - ⚡ Fun fact: I love to surf 🏄 & play on drums 🥁
 
