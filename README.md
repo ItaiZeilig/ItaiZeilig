@@ -7,7 +7,9 @@
 
 <br/>
 
-#### My Final Academic project (Afeka college of engineering): [finalProject]
+### My Academic projects (Afeka college of engineering): 
+
+Diabetes online chat Application for "Meir hospital Kfar Saba" [finalProject]
 
 
 ### Connect with me:
