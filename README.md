@@ -2,7 +2,6 @@
 
 ## I'm a Software Engineer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Finish my personal Flutter project
 - ⚡ Fun fact: I love to surf 🏄 & play on drums 🥁
 
