@@ -10,9 +10,9 @@
 ### My Academic projects (Afeka college of engineering): 
 
 #### Final Academic project
-- Diabetes Communication app between HCP (Health Care Provider) staff and their patients developed for "Meir hospital Kfar Saba" [finalProject]
+ Diabetes Communication app between HCP (Health Care Provider) staff and their patients developed for "Meir hospital Kfar Saba" [finalProject]
 #### Seminar project
-- Multi threding Webcrowler based on python and flask
+ Multi threding Webcrowler based on python and flask
 
 
 ### Connect with me:
