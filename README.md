@@ -15,6 +15,11 @@
  Multi threding Webcrowler based on Python and Flask [seminarProject]
 #### Computer Vision
  Kaggle Global Wheat Detection Research Code Competition [GWD]
+#### Android Projecs
+ RizeUp Mobile application for managing wait lists based on Android [RizeUp]
+ Rick And Morty mobile game based on Android [Rick-And-Morty-Mobile-Game]
+#### Integrative Software Engineering
+ Places Behind You back end and front end project based on Java, Java Boot, Tomcat, Jackson, MongoDB, RestAPI, Flutte [Places-Behind-You]
 
 <br />
 
@@ -56,7 +61,9 @@
 
 <img align="left" alt="ItaiZeilig's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ItaiZeilig&show_icons=true&hide_border=true" />
 
-
+[Places-Behind-You]: https://github.com/ItaiZeilig/Places-Behind-You
+[Rick-And-Morty-Mobile-Game]: https://github.com/ItaiZeilig/Rick-And-Morty-Mobile-Game
+[RizeUp]: https://github.com/ItaiZeilig/RizeUp
 [finalProject]: https://github.com/ItaiZeilig/Diabetes_App
 [seminarProject]: https://github.com/ItaiZeilig/WebCrawler
 [GWD]: https://github.com/ItaiZeilig/Introduction-to-Computer-Vision/blob/master/Introduction%20to%20Computer%20Vision/Final%20Project/FasterRCNN%20ResNet101%20.ipynb
