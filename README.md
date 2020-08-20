@@ -17,6 +17,7 @@
  Kaggle Global Wheat Detection Research Code Competition [GWD]
 #### Android Projecs
  RizeUp Mobile application for managing wait lists based on Android [RizeUp]
+ <br />
  Rick And Morty mobile game based on Android [Rick-And-Morty-Mobile-Game]
 #### Integrative Software Engineering
  Places Behind You back end and front end project based on Java, Java Boot, Tomcat, Jackson, MongoDB, RestAPI, Flutte [Places-Behind-You]
